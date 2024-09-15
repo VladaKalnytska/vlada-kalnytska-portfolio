@@ -31,54 +31,54 @@ const portfolio = {
             description: 'This is My Portfolio, You Will Be Able to Get to Know Me a Little Bit More Before Hiring. This App Created Using React Hooks, Redux and SCSS.',
             imgUrl: 'portfolio',
             tags: ['JavaScript', 'React', 'Hooks', 'Redux', 'SCSS'],
-            codeUrl: 'https://github.com/NofarPeled/Nofar-Peled-Portfolio',
-            webUrl: 'https://nofarpeled.github.io/Nofar-Peled-Portfolio'
-        },
-        {
-            _id: '0jeueeIVJKN',
-            title: 'Covid 19 Tracker',
-            description: 'This App Will Allow You to Track the Coronavirus Spread in Your Country and all Around the World. This App Created Using React Hooks, Redux & SCSS at the Frontend, and Node JS with Express, MongoDB as the Data Base and Selenium Web Driver to Scape the Data Table from Public Coronavirus Tracker Website at the Backend.',
-            imgUrl: 'covid-19',
-            tags: ['JavaScript', 'React', 'Hooks', 'Redux', 'SCSS', 'NodeJS', 'ExpressJS', 'Selenium WebDriver', 'MongoDB'  ],
-            codeUrl: 'https://github.com/NofarPeled/covid-19-tracker',
-            webUrl: 'https://covid-19-tracker-np.herokuapp.com'
-        }, 
-        {
-            _id: 'fdjkJK5JKDnkfj',
-            title: 'Tickets',
-            description: 'This App Will Allow You to Add, Remove, Edit and Read Tickets from Ticket List. This App Created Using React Hooks, Redux and SCSS.',
-            imgUrl: 'tickets',
-            tags: ['JavaScript', 'React', 'Hooks', 'Redux', 'SCSS'],
-            codeUrl: 'https://github.com/NofarPeled/Tickets',
-            webUrl: 'https://nofarpeled.github.io/Tickets'
-        },
-        {
-            _id: 'fdjmmokl88787KDnkfj',
-            title: 'Ask Em Surveys',
-            description: 'This App Will Help You to Create Your Own Surveys, Share Them With the Environment by Link, and See Real Time Results. This App Created Using JavaScript, Vue, VueX,SCSS in the Frontend, and NodeJS, ExpressJS, MongoDB, Socket.IO in the Backend.',
-            imgUrl: 'askem',
-            tags: ['JavaScript', 'Vue', 'VueX', 'SCSS', 'NodeJS', 'ExpressJS', 'MongoDB', 'Socket.io'],
-            codeUrl: 'https://github.com/tomdor123/projAskEm',
-            webUrl: 'https://proj-askem.herokuapp.com'
-        },
-        {
-            _id: 'f909jJDHKFD8KJPAj',
-            title: 'Weather',
-            description: 'This App Will Allow You to Get the Weather in Your Own Country / in Your Destination Country. This App Created Using React, Redux and SCSS. ',
-            imgUrl: 'weather',
-            tags: ['JavaScript', 'Vue', 'VueX', 'SCSS', 'NodeJS', 'ExpressJS', 'MongoDB', 'Socket.io'],
-            codeUrl: 'https://github.com/NofarPeled/Weather-App',
-            webUrl: 'https://nofarpeled.github.io/Weather-App'
-        },
-        {
-            _id: 'f909jdioj8JDKJ9kk',
-            title: 'Meme Generator',
-            description: 'This App Will Allow You Create Meme Download Them, and Send Them to Your Family & Friends. This App Created Using React, Redux and SCSS. ',
-            imgUrl: 'meme-generator',
-            tags: ['HTML5', 'CSS3', 'JavaScript'],
-            codeUrl: 'https://github.com/StavDorkam119/Sprint-2-Meme-Generator',
-            webUrl: 'https://stavdorkam119.github.io/Sprint-2-Meme-Generator'
-        },
+            codeUrl: 'https://github.com/VladaKalnytska/vlada-kalnytska-portfolio.git',
+            webUrl: 'https://vladakalnytska.github.io/vlada-kalnytska-portfolio/'
+        }
+        // {
+        //     _id: '0jeueeIVJKN',
+        //     title: 'Covid 19 Tracker',
+        //     description: 'This App Will Allow You to Track the Coronavirus Spread in Your Country and all Around the World. This App Created Using React Hooks, Redux & SCSS at the Frontend, and Node JS with Express, MongoDB as the Data Base and Selenium Web Driver to Scape the Data Table from Public Coronavirus Tracker Website at the Backend.',
+        //     imgUrl: 'covid-19',
+        //     tags: ['JavaScript', 'React', 'Hooks', 'Redux', 'SCSS', 'NodeJS', 'ExpressJS', 'Selenium WebDriver', 'MongoDB'  ],
+        //     codeUrl: 'https://github.com/NofarPeled/covid-19-tracker',
+        //     webUrl: 'https://covid-19-tracker-np.herokuapp.com'
+        // }, 
+        // {
+        //     _id: 'fdjkJK5JKDnkfj',
+        //     title: 'Tickets',
+        //     description: 'This App Will Allow You to Add, Remove, Edit and Read Tickets from Ticket List. This App Created Using React Hooks, Redux and SCSS.',
+        //     imgUrl: 'tickets',
+        //     tags: ['JavaScript', 'React', 'Hooks', 'Redux', 'SCSS'],
+        //     codeUrl: 'https://github.com/NofarPeled/Tickets',
+        //     webUrl: 'https://nofarpeled.github.io/Tickets'
+        // },
+        // {
+        //     _id: 'fdjmmokl88787KDnkfj',
+        //     title: 'Ask Em Surveys',
+        //     description: 'This App Will Help You to Create Your Own Surveys, Share Them With the Environment by Link, and See Real Time Results. This App Created Using JavaScript, Vue, VueX,SCSS in the Frontend, and NodeJS, ExpressJS, MongoDB, Socket.IO in the Backend.',
+        //     imgUrl: 'askem',
+        //     tags: ['JavaScript', 'Vue', 'VueX', 'SCSS', 'NodeJS', 'ExpressJS', 'MongoDB', 'Socket.io'],
+        //     codeUrl: 'https://github.com/tomdor123/projAskEm',
+        //     webUrl: 'https://proj-askem.herokuapp.com'
+        // },
+        // {
+        //     _id: 'f909jJDHKFD8KJPAj',
+        //     title: 'Weather',
+        //     description: 'This App Will Allow You to Get the Weather in Your Own Country / in Your Destination Country. This App Created Using React, Redux and SCSS. ',
+        //     imgUrl: 'weather',
+        //     tags: ['JavaScript', 'Vue', 'VueX', 'SCSS', 'NodeJS', 'ExpressJS', 'MongoDB', 'Socket.io'],
+        //     codeUrl: 'https://github.com/NofarPeled/Weather-App',
+        //     webUrl: 'https://nofarpeled.github.io/Weather-App'
+        // },
+        // {
+        //     _id: 'f909jdioj8JDKJ9kk',
+        //     title: 'Meme Generator',
+        //     description: 'This App Will Allow You Create Meme Download Them, and Send Them to Your Family & Friends. This App Created Using React, Redux and SCSS. ',
+        //     imgUrl: 'meme-generator',
+        //     tags: ['HTML5', 'CSS3', 'JavaScript'],
+        //     codeUrl: 'https://github.com/StavDorkam119/Sprint-2-Meme-Generator',
+        //     webUrl: 'https://stavdorkam119.github.io/Sprint-2-Meme-Generator'
+        // },
     ],
     technologies: [
         {
