@@ -33,16 +33,16 @@ const portfolio = {
             tags: ['JavaScript', 'React', 'Hooks', 'Redux', 'SCSS'],
             codeUrl: 'https://github.com/VladaKalnytska/vlada-kalnytska-portfolio.git',
             webUrl: 'https://vladakalnytska.github.io/vlada-kalnytska-portfolio/'
-        }
-        // {
-        //     _id: '0jeueeIVJKN',
-        //     title: 'Covid 19 Tracker',
-        //     description: 'This App Will Allow You to Track the Coronavirus Spread in Your Country and all Around the World. This App Created Using React Hooks, Redux & SCSS at the Frontend, and Node JS with Express, MongoDB as the Data Base and Selenium Web Driver to Scape the Data Table from Public Coronavirus Tracker Website at the Backend.',
-        //     imgUrl: 'covid-19',
-        //     tags: ['JavaScript', 'React', 'Hooks', 'Redux', 'SCSS', 'NodeJS', 'ExpressJS', 'Selenium WebDriver', 'MongoDB'  ],
-        //     codeUrl: 'https://github.com/NofarPeled/covid-19-tracker',
-        //     webUrl: 'https://covid-19-tracker-np.herokuapp.com'
-        // }, 
+        },
+        {
+            _id: '0jeueeIVJKN',
+            title: 'Covid 19 Tracker',
+            description: 'This App Will Allow You to Track the Coronavirus Spread in Your Country and all Around the World. This App Created Using React Hooks, Redux & SCSS at the Frontend, and Node JS with Express, MongoDB as the Data Base and Selenium Web Driver to Scape the Data Table from Public Coronavirus Tracker Website at the Backend.',
+            imgUrl: 'covid-19',
+            tags: ['JavaScript', 'React', 'Hooks', 'Redux', 'SCSS', 'NodeJS', 'ExpressJS', 'Selenium WebDriver', 'MongoDB'  ],
+            codeUrl: 'https://github.com/NofarPeled/covid-19-tracker',
+            webUrl: 'https://covid-19-tracker-np.herokuapp.com'
+        }, 
         // {
         //     _id: 'fdjkJK5JKDnkfj',
         //     title: 'Tickets',
