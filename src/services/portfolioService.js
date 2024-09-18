@@ -36,12 +36,12 @@ const portfolio = {
         },
         {
             _id: '0jeueeIVJKN',
-            title: 'Covid 19 Tracker',
-            description: 'This App Will Allow You to Track the Coronavirus Spread in Your Country and all Around the World. This App Created Using React Hooks, Redux & SCSS at the Frontend, and Node JS with Express, MongoDB as the Data Base and Selenium Web Driver to Scape the Data Table from Public Coronavirus Tracker Website at the Backend.',
-            imgUrl: 'covid-19',
-            tags: ['JavaScript', 'React', 'Hooks', 'Redux', 'SCSS', 'NodeJS', 'ExpressJS', 'Selenium WebDriver', 'MongoDB'  ],
-            codeUrl: 'https://github.com/NofarPeled/covid-19-tracker',
-            webUrl: 'https://covid-19-tracker-np.herokuapp.com'
+            title: 'To-Do List',
+            description: 'This app allows you to manage your tasks efficiently with features for adding, deleting, and updating tasks. It also includes functionality for sorting tasks by priority and filtering tasks based on their completion status. The app is built using React Hooks for the frontend, Redux for state management, and SCSS for styling. The backend is powered by Node.js.',
+            imgUrl: 'to-do-list',
+            tags: ['JavaScript', 'React', 'SCSS', 'NodeJS'],
+            codeUrl: 'https://github.com/VladaKalnytska/to-do-list',
+            webUrl: 'https://vladakalnytska.github.io/to-do-list'
         }, 
         // {
         //     _id: 'fdjkJK5JKDnkfj',
@@ -192,7 +192,7 @@ const portfolio = {
     ],
     about: {
         title: "About Vlada",
-        description: "Dedicated and Efficient Fullstack/Frontend Developer, Passionate About Building and Improving Web Applications and UI & UX. I graduated from Coding Academy bootcamp, and Certified for Both Front-end & Back-end Technologies. Experienced with JavaScript(ES5-ES9), React, Redux, Vue, Vue X, Node Js, Express Js, Mongo DB, Python, Photoshop and More… I’m Highly Motivated, Team Player, Fast Learner,Seeking to Learn and Improve My Skills as a Fullstack/Frontend Developer by Learning from More Seasoned Developers the Best Code Practices.",
+        description: "As a budding programmer with a degree in Software Engineering, I am passionate about web development and eager to advance my skills in this field. I have a strong foundation in various web technologies and am motivated to build and enhance web applications. I am a quick learner and a dedicated team player, always striving to adopt the best coding practices and learn from more experienced developers. My goal is to continually improve my expertise and contribute effectively to development projects.",
         imgUrl: 'vlada'
     },
     contact: {
